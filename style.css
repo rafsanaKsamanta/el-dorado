@@ -194,3 +194,16 @@ h1 {
 
 
 }
+
+.rcp1 {
+    box-shadow: 5px 7px 40px grey;
+    width: 33%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    height: 600px;
+}
+
+.rcp_img img {
+    width: 100%;
+}
