@@ -267,7 +267,7 @@ h1 {
 
 .test_img_txt {
     text-align: center;
-    margin-left: 35%;
+    margin-left: 2%;
 }
 
 .test_img_txt h4 {
@@ -283,5 +283,37 @@ h1 {
     font-family: 'Inter', sans-serif;
     color: #2B547E;
     font-weight: 300;
+
+}
+
+
+
+.count {
+    box-shadow: 5px 7px 40px grey;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.count1 {
+    width: 23%;
+    text-align: center;
+}
+
+.count1 h2 {
+    font-size: 46px;
+    font-family: 'Poppins', sans-serif;
+    color: #f82a34;
+    font-weight: 600;
+    margin-bottom: -7px;
+}
+
+.count1 p {
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+    color: #2B547E;
+    font-weight: 300;
+
 
 }
