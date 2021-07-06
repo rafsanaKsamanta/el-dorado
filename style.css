@@ -104,3 +104,60 @@ h1 {
 .home_page_img img {
     margin-left: 30px;
 }
+
+/* about-section */
+.about_img {
+    width: 50%;
+}
+
+.abt_txt {
+    width: 50%;
+    margin-top: 20px;
+}
+
+.about_img img {
+    width: 90%;
+}
+
+.abt_txt h2 {
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    color: #f82a34;
+    font-weight: 700;
+}
+
+.abt_txt h3 {
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    color: #2B547E;
+    font-weight: 700;
+}
+
+.abt_txt p {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #4E5180;
+    font-weight: 400;
+    text-align: justify;
+    margin-bottom: 60px;
+}
+
+.abt_txt a {
+
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: #f82a34;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+
+.abt_txt a:hover {
+
+    background-color: #FFFFF0;
+    color: #f82a34;
+    border: 3px solid #f82a34;
+
+
+}
