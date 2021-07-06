@@ -286,6 +286,7 @@ h1 {
 
 }
 
+/* countdown-section */
 
 
 .count {
@@ -307,6 +308,7 @@ h1 {
     color: #f82a34;
     font-weight: 600;
     margin-bottom: -7px;
+
 }
 
 .count1 p {
@@ -314,6 +316,56 @@ h1 {
     font-family: 'Inter', sans-serif;
     color: #2B547E;
     font-weight: 300;
+
+
+}
+
+.ord_txt {
+    width: 60%;
+}
+
+.ord_btn {
+    width: 40%;
+}
+
+.ord_txt h2 {
+    font-size: 35px;
+    font-family: 'Inter', sans-serif;
+    color: #2B3856;
+    font-weight: 600;
+
+}
+
+.ord_txt p {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #4E5180;
+    font-weight: 400;
+}
+
+.ord_btn {
+    margin-top: 8%;
+}
+
+.ord_btn a {
+
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-image: linear-gradient(15deg, #F87431, #f82a34);
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 65%;
+    margin-top: 10%;
+
+}
+
+.ord_btn a:hover {
+
+    background-image: none;
+    color: #f82a34;
+    border: 3px solid #f82a34;
+
 
 
 }
