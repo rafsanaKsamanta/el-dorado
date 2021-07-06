@@ -320,6 +320,7 @@ h1 {
 
 }
 
+/* order-section */
 .ord_txt {
     width: 60%;
 }
@@ -360,6 +361,8 @@ h1 {
 
 }
 
+
+
 .ord_btn a:hover {
 
     background-image: none;
@@ -367,5 +370,60 @@ h1 {
     border: 3px solid #f82a34;
 
 
+
+}
+
+/* footer-section */
+
+.location {
+    width: 40%;
+}
+
+.location h2 {
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    color: #f82a34;
+    font-weight: 700;
+}
+
+.location p {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #4E5180;
+    font-weight: 400;
+}
+
+.hours {
+    width: 40%;
+    margin-left: 30px;
+}
+
+.hours h2 {
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    color: #f82a34;
+    font-weight: 700;
+}
+
+.hours p {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #4E5180;
+    font-weight: 400;
+}
+
+footer {
+    background-color: #f82a34;
+    height: 40px;
+    margin-bottom: 0;
+}
+
+footer h2 {
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 10px;
 
 }
