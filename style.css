@@ -86,7 +86,7 @@ h1 {
     font-size: 20px;
     font-family: 'Poppins', sans-serif;
     color: white;
-    background-color: #f82a34;
+    background-image: linear-gradient(15deg, #F87431, #f82a34);
     padding: 10px 20px;
     border-radius: 5px;
 
@@ -94,7 +94,7 @@ h1 {
 
 .main_heading a:hover {
 
-    background-color: #FFFFF0;
+    background-image: none;
     color: #f82a34;
     border: 3px solid #f82a34;
 
@@ -147,7 +147,7 @@ h1 {
     font-size: 20px;
     font-family: 'Poppins', sans-serif;
     color: white;
-    background-color: #f82a34;
+    background-image: linear-gradient(15deg, #F87431, #f82a34);
     padding: 10px 20px;
     border-radius: 5px;
 
@@ -155,9 +155,11 @@ h1 {
 
 .abt_txt a:hover {
 
-    background-color: #FFFFF0;
+    background-image: none;
     color: #f82a34;
     border: 3px solid #f82a34;
 
 
 }
+
+/* recipe-section */
