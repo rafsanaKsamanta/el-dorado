@@ -163,3 +163,34 @@ h1 {
 }
 
 /* recipe-section */
+.rcp_txt {
+    text-align: center;
+}
+
+.rcp_txt h2 {
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    color: #f82a34;
+    font-weight: 700;
+}
+
+.rcp_txt h3 {
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    color: #2B547E;
+    font-weight: 700;
+}
+
+.rcp_txt p {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #4E5180;
+    font-weight: 400;
+    text-align: justify;
+    margin-bottom: 60px;
+    width: 50%;
+    text-align: center;
+    margin-left: 280px;
+
+
+}
